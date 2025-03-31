@@ -1,4 +1,4 @@
-# FAQ - Collapse
+# FAQ - Collapse Page
 
 ## 📌 Project Overview  
 This is a fun and interactive FAQ section featuring humorous yet informative cybersecurity-related questions. The collapsible design enhances readability and engagement, making cybersecurity knowledge more accessible.  
